@@ -73,14 +73,4 @@
     <p>Aqui estão alguns dos projetos em que trabalhei:</p>
     <ul>
         <li><strong>Automação de Deployment:</strong> Implementei uma pipeline CI/CD usando Jenkins e Kubernetes, reduzindo o tempo de deployment em 50%.</li>
-        <li><strong>Monitoramento de Aplicações:</strong> Configurei o New Relic para monitorar aplicações críticas, melhorando a identificação de problemas e o tempo de resposta.</li>
-        <li><strong>Contêinerização de Serviços:</strong> Migrei serviços monolíticos para uma arquitetura baseada em microserviços usando Docker e Kubernetes.</li>
-    </ul>
-</section>
-
-<footer>
-    <p>&copy; 2024 Meu Portfólio - DevOps</p>
-</footer>
-
-</body>
-</html>
+        <li><strong>Monitoramento de Aplicações:</strong> Configurei o New Relic para monitorar aplicações críticas, melhorando a identificação de proble
