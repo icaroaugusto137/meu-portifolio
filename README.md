@@ -61,11 +61,11 @@
 <section>
     <h2>Minhas Ferramentas</h2>
     <ul>
-        <li><i class="fab fa-kubernetes"></i> <strong>Kubernetes:</strong> Gerenciamento de contêineres em produção, orquestração e automação de deployments.</li>
-        <li><i class="fab fa-github"></i> <strong>GitHub:</strong> Controle de versão e colaboração em projetos através de repositórios.</li>
-        <li><i class="fas fa-cogs"></i> <strong>Jenkins:</strong> Integração contínua e entrega contínua (CI/CD) para automação de builds e testes.</li>
-        <li><i class="fas fa-chart-line"></i> <strong>New Relic:</strong> Monitoramento de performance de aplicações e infraestrutura.</li>
-        <li><i class="fab fa-docker"></i> <strong>Docker:</strong> Contêinerização de aplicações para ambientes consistentes e escaláveis.</li>
+        <li><strong>Kubernetes:</strong> Gerenciamento de contêineres em produção, orquestração e automação de deployments.</li>
+        <li><strong>GitHub:</strong> Controle de versão e colaboração em projetos através de repositórios.</li>
+        <li><strong>Jenkins:</strong> Integração contínua e entrega contínua (CI/CD) para automação de builds e testes.</li>
+        <li><strong>New Relic:</strong> Monitoramento de performance de aplicações e infraestrutura.</li>
+        <li><strong>Docker:</strong> Contêinerização de aplicações para ambientes consistentes e escaláveis.</li>
     </ul>
 </section>
 
